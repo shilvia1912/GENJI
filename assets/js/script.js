@@ -2,12 +2,13 @@
 
 // TODO: PASTE KONFIGURASI FIREBASE ANDA DI SINI!
 const firebaseConfig = {
-  apiKey: "AIzaSyXXXXXXXXXXXXXXXXXXXXXXX",
-  authDomain: "proyek-anda.firebaseapp.com",
-  projectId: "proyek-anda",
-  storageBucket: "proyek-anda.appspot.com",
-  messagingSenderId: "1234567890",
-  appId: "1:1234567890:web:XXXXXXXXXXXXXXXX"
+  apiKey: "AIzaSyB-xQ_tkRDzB5OEVRVCNbn-rwFMouufhAM",
+  authDomain: "jentsuu-6b3b5.firebaseapp.com",
+  projectId: "jentsuu-6b3b5",
+  storageBucket: "jentsuu-6b3b5.firebasestorage.app",
+  messagingSenderId: "924729027833",
+  appId: "1:924729027833:web:51a60488b99b83ea618628",
+  measurementId: "G-H8R1Z0G04X"
 };
 
 // Inisialisasi Firebase
